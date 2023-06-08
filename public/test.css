@@ -1,0 +1,18 @@
+table {
+  border: 0.5px solid #0000001a;
+  border-radius: 12px;
+  padding: 3px;
+  width: 100%;
+}
+
+th {
+  background-color: var(--background);
+  border-radius: 12px;
+  width: 25%;
+}
+
+td {
+  width: 50%;
+  background-color: #0000000d;
+  border-radius: 12px;
+}
