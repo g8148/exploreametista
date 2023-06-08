@@ -9,11 +9,11 @@ import AgroIndústriaSãoValentin6 from "./Agro Industria São Valentin/Agro Ind
 
 // Belvedere
 import BelvedereMain from "./Belvedere/Main.jpg";
-import Belvedere1 from "./Belvedere/Belvedere (1).jpg";
-import Belvedere2 from "./Belvedere/Belvedere (2).jpg";
-import Belvedere3 from "./Belvedere/Belvedere (3).jpg";
-import Belvedere4 from "./Belvedere/Belvedere (4).jpg";
-import Belvedere5 from "./Belvedere/Belvedere (5).jpg";
+import Belvedere1 from "./Belvedere/belvedere (1).jpg";
+import Belvedere2 from "./Belvedere/belvedere (2).jpg";
+import Belvedere3 from "./Belvedere/belvedere (3).jpg";
+import Belvedere4 from "./Belvedere/belvedere (4).jpg";
+import Belvedere5 from "./Belvedere/belvedere (5).jpg";
 import Belvedere6 from "./Belvedere/belvedere (6).jpg";
 
 // Coperametista
