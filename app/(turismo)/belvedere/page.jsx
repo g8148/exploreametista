@@ -6,8 +6,9 @@ export default function Home() {
     <Desc
       título={"Belvedere Mina"}
       fotos={[
-        IMAGES.Belvedere[1],
+        IMAGES.Belvedere[6],
         IMAGES.Belvedere[2],
+        IMAGES.Belvedere[1],
         IMAGES.Belvedere[3],
         IMAGES.Belvedere[4],
         IMAGES.Belvedere[5],

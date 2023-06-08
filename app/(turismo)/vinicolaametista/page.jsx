@@ -7,10 +7,10 @@ export default function Home() {
       título={"Vinícola Ametista"}
       fotos={[
         IMAGES.VinícolaAmetista[1],
+        IMAGES.VinícolaAmetista[5],
         IMAGES.VinícolaAmetista[2],
         IMAGES.VinícolaAmetista[3],
         IMAGES.VinícolaAmetista[4],
-        IMAGES.VinícolaAmetista[5],
         IMAGES.VinícolaAmetista[6],
         IMAGES.VinícolaAmetista[7],
       ]}

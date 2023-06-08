@@ -12,6 +12,13 @@ export default function Desc({ título, fotos, mapa, mapalink, parag }) {
 
             <Slideshow imgs={fotos} />
 
+            <h2 className="font-medium m-5 text-2xl">Descrição</h2>
+            <div className="text-justify rounded-xl px-4 indent-4 borderr">
+              {parag.map((texto) => (
+                <p className="my-4">{texto}</p>
+              ))}
+            </div>
+
             <div>
               <h2 className="font-medium m-5 text-2xl">Mapa</h2>
 
@@ -36,13 +43,6 @@ export default function Desc({ título, fotos, mapa, mapalink, parag }) {
                 </Link>{" "}
                 para ser redirecionado automaticamente ao Google Maps
               </span>
-            </div>
-
-            <h2 className="font-medium m-5 text-2xl">Descrição</h2>
-            <div className="text-center rounded-xl px-4 indent-4 borderr">
-              {parag.map((texto) => (
-                <p className="my-4">{texto}</p>
-              ))}
             </div>
           </div>
         </div>

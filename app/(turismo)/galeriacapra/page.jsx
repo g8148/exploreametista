@@ -6,11 +6,11 @@ export default function Home() {
     <Desc
       título={"Galeria Capra"}
       fotos={[
+        IMAGES.GaleriaCapra[5],
         IMAGES.GaleriaCapra[1],
         IMAGES.GaleriaCapra[2],
         IMAGES.GaleriaCapra[3],
         IMAGES.GaleriaCapra[4],
-        IMAGES.GaleriaCapra[5],
       ]}
       mapa={
         "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3543.431343822158!2d-53.18618308494551!3d-27.36224128293612!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94fb6f006500e16b%3A0x91b6366f526e1dfa!2sGaleria%20Capra!5e0!3m2!1spt-BR!2sbr!4v1680785445005!5m2!1spt-BR!2sbr"

@@ -6,8 +6,8 @@ export default function Home() {
     <Desc
       título={"Restaurante Garimpo"}
       fotos={[
-        IMAGES.RestauranteGarimpo[1],
         IMAGES.RestauranteGarimpo[2],
+        IMAGES.RestauranteGarimpo[1],
         IMAGES.RestauranteGarimpo[3],
         IMAGES.RestauranteGarimpo[4],
       ]}
