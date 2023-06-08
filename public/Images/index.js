@@ -6,7 +6,7 @@ import AgroIndústriaSãoValentin3 from "./Agro Industria São Valentin/Agro Ind
 import AgroIndústriaSãoValentin4 from "./Agro Industria São Valentin/Agro Industria São Valentin (4).jpg";
 import AgroIndústriaSãoValentin5 from "./Agro Industria São Valentin/Agro Industria São Valentin (5).jpg";
 import AgroIndústriaSãoValentin6 from "./Agro Industria São Valentin/Agro Industria São Valentin (6).jpg";
-//test
+
 // Belvedere
 import BelvedereMain from "./Belvedere/Main.jpg";
 import Belvedere1 from "./Belvedere/belvedere (1).jpg";
@@ -89,12 +89,12 @@ import Museu4 from "./Museu/Museu (4).jpg";
 import Museu5 from "./Museu/Museu (5).jpg";
 
 // Museu do bambu
-import MuseudobambuMain from "./Museu do Bambu/Main.jpg";
-import Museudobambu1 from "./Museu do Bambu/Museu do Bambu (1).jpg";
-import Museudobambu2 from "./Museu do Bambu/Museu do Bambu (2).jpg";
-import Museudobambu3 from "./Museu do Bambu/Museu do Bambu (3).jpg";
-import Museudobambu4 from "./Museu do Bambu/Museu do Bambu (4).jpg";
-import Museudobambu5 from "./Museu do Bambu/Museu do Bambu (5).jpg";
+import MuseudobambuMain from "./Museu do bambu/main.jpg";
+import Museudobambu1 from "./Museu do bambu/museu do bambu (1).jpg";
+import Museudobambu2 from "./Museu do bambu/museu do bambu (2).jpg";
+import Museudobambu3 from "./Museu do bambu/museu do bambu (3).jpg";
+import Museudobambu4 from "./Museu do bambu/museu do bambu (4).jpg";
+import Museudobambu5 from "./Museu do bambu/museu do bambu (5).jpg";
 
 // Pirâmide
 import PirâmideMain from "./Pirâmide/Main.jpg";
