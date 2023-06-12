@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Navbar() {
   return (
     <div>
-      <header className="bg-[#dad3ee] flex gap-3 p-1 justify-around">
+      <header className="bg-[#c8c2e5] flex gap-3 p-1 justify-around">
         <Link
           href="/"
           className="flex gap-2 self-center font-medium text-xl items-center text-[--black]"
@@ -47,7 +47,7 @@ export default function Navbar() {
             Turismo
           </Link>
           <Link
-            href="/"
+            href="saude"
             className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
@@ -67,7 +67,7 @@ export default function Navbar() {
             Saúde
           </Link>
           <Link
-            href="/"
+            href="agenciadeturismo"
             className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
@@ -81,9 +81,11 @@ export default function Navbar() {
               strokeLinecap="round"
               strokeLinejoin="round"
             >
-              <path d="m21.44 11.05-9.19 9.19a6 6 0 0 1-8.49-8.49l8.57-8.57A4 4 0 1 1 18 8.84l-8.59 8.57a2 2 0 0 1-2.83-2.83l8.49-8.48"></path>
+              <polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21" />
+              <line x1="9" x2="9" y1="3" y2="18" />
+              <line x1="15" x2="15" y1="6" y2="21" />
             </svg>
-            Agencia de turismo
+            Agência de turismo
           </Link>
           <Link
             href="Sobre-nos"

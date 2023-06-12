@@ -135,6 +135,20 @@ import VinícolaAmetista5 from "./Vinícola Ametista/Vinícola Ametista (5).jpg"
 import VinícolaAmetista6 from "./Vinícola Ametista/Vinícola Ametista (6).jpg";
 import VinícolaAmetista7 from "./Vinícola Ametista/Vinícola Ametista (7).jpg";
 
+// Saúde
+import FarmaciaAmetista from "./Farmácias/ametista.jpg";
+import FarmaciaCassol from "./Farmácias/cassol.jpg";
+import FarmaciaCristal from "./Farmácias/cristal.jpg";
+import FarmaciaDrogaCenter from "./Farmácias/drogacenter.jpg";
+import FarmaciaEconomica from "./Farmácias/economica.jpg";
+import FarmaciaGonzatti from "./Farmácias/gonzatti.jpg";
+
+// Agência de turismo
+import AndressaZatti from "./Agências de turismo/Andressa Zatti.jpg";
+import Aptur from "./Agências de turismo/Aptur.jpg";
+import Citrino from "./Agências de turismo/Citrino.jpg";
+import RotasdosCristais from "./Agências de turismo/Rota dos cristais.jpg";
+
 const IMAGES = {
   AgroIndústriaSãoValentin: {
     Main: AgroIndústriaSãoValentinMain,
@@ -272,6 +286,20 @@ const IMAGES = {
     5: VinícolaAmetista5,
     6: VinícolaAmetista6,
     7: VinícolaAmetista7,
+  },
+  Farmácia: {
+    FarmaciaAmetista: FarmaciaAmetista,
+    FarmaciaCassol: FarmaciaCassol,
+    FarmaciaCristal: FarmaciaCristal,
+    FarmaciaDrogaCenter: FarmaciaDrogaCenter,
+    FarmaciaEconomica: FarmaciaEconomica,
+    FarmaciaGonzatti: FarmaciaGonzatti,
+  },
+  Agênciasdeturismo: {
+    AndressaZatti: AndressaZatti,
+    Aptur: Aptur,
+    Citrino: Citrino,
+    RotasdosCristais: RotasdosCristais,
   },
 };
 

@@ -16,7 +16,7 @@ export default function Card({ título, texto, link, img }) {
         <div className="text-2xl font-medium mb-4">{título}</div>
         <p>{texto}</p>
         <div className="mt-auto mb-[5px]">
-          <span className="py-3 px-6 rounded-3xl font-semibold text-[#0077ff] bg-[#d4e7fc]">
+          <span className="py-3 px-6 rounded-3xl font-semibold text-[#694bff] bg-[#d8d1ff]">
             Leia mais
           </span>
         </div>
