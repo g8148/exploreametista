@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Navbar() {
   return (
     <div>
-      <header className="bg-[#c8c2e5] flex gap-3 p-1 justify-around">
+      <header className="bg-[#b7afdf] flex gap-3 p-1 justify-around">
         <Link
           href="/"
           className="flex gap-2 self-center font-medium text-xl items-center text-[--black]"
