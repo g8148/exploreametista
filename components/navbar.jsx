@@ -6,7 +6,7 @@ export default function Navbar() {
       <header className="bg-[#b7afdf] flex gap-3 p-1 justify-around">
         <Link
           href="/"
-          className="flex gap-2 self-center font-medium text-xl items-center text-[--black]"
+          className="flex gap-2 self-center font-medium text-xl items-center text-[--white]"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -26,7 +26,7 @@ export default function Navbar() {
         <div className="flex list-none gap-4 justify-evenly nav-itens">
           <Link
             href="/"
-            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
+            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--white] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -48,7 +48,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="saude"
-            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
+            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--white] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="agenciadeturismo"
-            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
+            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--white] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -89,7 +89,7 @@ export default function Navbar() {
           </Link>
           <Link
             href="Sobre-nos"
-            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--black] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
+            className="flex items-center gap-y-[3px] gap-x-[5px] font-medium p-3 duration-300 text-[--white] no-underline w-auto text-center m-auto flex-grow rounded-xl hover:bg-[rgba(0, 0, 0, 0.1)] hover:rounded-xl hover:bg-[#0000001a] nav-links"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"

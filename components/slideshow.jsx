@@ -54,7 +54,7 @@ export default function Slideshow({ imgs }) {
         <div>
           {imgs.map((img, index) => (
             <div className="mySlides fade" key={index}>
-              <Image src={img} alt="" />
+              <Image src={img} alt="" loading="eager" />
             </div>
           ))}
         </div>
@@ -67,7 +67,7 @@ export default function Slideshow({ imgs }) {
       </div>
 
       <div className="dots">
-        {imgs.map((img, index) => (
+        {imgs.map((index) => (
           <span
             className={`dot ${slideIndex === index + 1 ? "active-dot" : ""}`}
             onClick={() => currentSlide(index + 1)}

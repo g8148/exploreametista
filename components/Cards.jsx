@@ -11,6 +11,7 @@ export default function Card({ título, texto, link, img }) {
         src={img}
         className=" rounded-xl min-h-[214px] object-cover"
         alt=""
+        loading="eager"
       />
       <div className="p-4 mt-auto flex flex-col h-full">
         <div className="text-2xl font-medium mb-4">{título}</div>

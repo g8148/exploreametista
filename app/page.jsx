@@ -85,7 +85,7 @@ export default function Home() {
 
           <Card
             título="Mirante das Pedras"
-            texto="O passeio de Trenzinho das Pedras é um passeio diferenciado onde o visitante tem a oportunidade de conhecer as belas paisagens da cidade e interior, em contato com a natureza."
+            texto="Convidamos você a desfrutar de uma visita a esta deslumbrante paisagem. O Mirante das Pedras transcende a mera localidade, proporcionando uma experiência de vida verdadeiramente única."
             link="mirantedaspedras"
             img={IMAGES.MirantedasPedras.Main}
           />
