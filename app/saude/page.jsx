@@ -44,7 +44,7 @@ export default function Home() {
           />
           <Card2
             título="Farmácia Equilíbrio"
-            numero="+55 99999-9999"
+            numero="+55 99621-6191"
             link="https://goo.gl/maps/bAyGzLpb7H5oBEKU8"
             img={IMAGES.Farmácia.FarmaciaEquilibrio}
           />
