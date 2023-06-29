@@ -5,9 +5,9 @@ export default function Desc({ título, fotos, mapa, mapalink, parag }) {
   return (
     <div>
       <div className="flex justify-center mb-6">
-        <div className="flex w-[1200px] flex-col justify-center bg-[--background-corpo] h-auto p-8 mt-6 rounded-xl box-shadow2">
+        <div className="flex w-[1200px] flex-col justify-center bg-[--background-corpo] h-auto p-8 mt-6 rounded-xl box-shadow2 md:p-0 md:py-8">
           <h1 className="text-center mb-10 font-medium text-3xl">{título}</h1>
-          <div className="flex flex-col p-6 max-w-[900px] self-center text-center font-light">
+          <div className="flex flex-col p-6 max-w-[900px] self-center text-center font-light md:p-3">
             <h2 className="font-medium m-5 text-2xl">Fotos</h2>
 
             <Slideshow imgs={fotos} />

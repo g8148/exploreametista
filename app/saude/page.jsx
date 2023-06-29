@@ -42,12 +42,12 @@ export default function Home() {
             link="https://goo.gl/maps/YgACkAyAz3ycZrKL7?coh=178572&entry=tt"
             img={IMAGES.Farmácia.FarmaciaAmetista}
           />
-          {/* <Card2
+          <Card2
             título="Farmácia Equilíbrio"
-            numero="55 99999-9999"
-            link=""
-            img={IMAGES.Farmácia.FarmaciaDrogaCenter}
-          /> */}
+            numero="+55 99999-9999"
+            link="https://goo.gl/maps/bAyGzLpb7H5oBEKU8"
+            img={IMAGES.Farmácia.FarmaciaEquilibrio}
+          />
         </div>
       </div>
     </div>

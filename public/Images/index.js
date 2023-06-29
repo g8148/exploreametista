@@ -142,6 +142,7 @@ import FarmaciaCristal from "./Farmácias/cristal.jpg";
 import FarmaciaDrogaCenter from "./Farmácias/drogacenter.jpg";
 import FarmaciaEconomica from "./Farmácias/economica.jpg";
 import FarmaciaGonzatti from "./Farmácias/gonzatti.jpg";
+import FarmaciaEquilibrio from "./Farmácias/equilíbrio.jpg";
 
 // Agência de turismo
 import AndressaZatti from "./Agências de turismo/Andressa Zatti.jpg";
@@ -294,6 +295,7 @@ const IMAGES = {
     FarmaciaDrogaCenter: FarmaciaDrogaCenter,
     FarmaciaEconomica: FarmaciaEconomica,
     FarmaciaGonzatti: FarmaciaGonzatti,
+    FarmaciaEquilibrio: FarmaciaEquilibrio,
   },
   Agênciasdeturismo: {
     AndressaZatti: AndressaZatti,
