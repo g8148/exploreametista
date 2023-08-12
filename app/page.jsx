@@ -2,16 +2,15 @@ import Head from "next/head";
 import IMAGES from "../public/Images";
 import Card from "@/components/Cards";
 
-<Head>
-    <meta
-        name="google-site-verification"
-        content="0nSjzUVaiZ-gvEXvHDR1K_lkDxlD9m8P_LVyCGgnNVs"
-    />
-</Head>;
-
 export default function Home() {
     return (
         <div>
+            <Head>
+                <meta
+                    name="google-site-verification"
+                    content="0nSjzUVaiZ-gvEXvHDR1K_lkDxlD9m8P_LVyCGgnNVs"
+                />
+            </Head>
             <div className="flex flex-wrap justify-center m-5">
                 <div className="flex flex-wrap justify-center items-center gap-5 max-w-[1200px]">
                     <Card
