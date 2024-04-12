@@ -116,7 +116,7 @@ export default function Home() {
           />
           <Card 
             título="Chocolates Ametista"
-            texto="Localizada no coração de uma mina de ametista preservada, a Chocolates Ametista é uma loja de chocolates artesanais verdadeiramente singular. Com um invejável mix de mais de 400 variedades de chocolates, é impossível não salivar ao explorar suas prateleiras. Além disso, os clientes podem desfrutar de uma adega subterrânea bem abastecida, oferecendo uma seleção cuidadosamente escolhida de vinhos, sucos e espumantes. Esta joia escondida está situada ao lado do restaurante subterrâneo do Complexo Belvedere Mina, proporcionando uma experiência gastronômica e de compras verdadeiramente única, em um ambiente que preserva as características naturais da mina."
+            texto="Localizada no coração de uma mina de ametista preservada, a Chocolates Ametista é uma loja de chocolates artesanais."
             link="chocolatesametista"
             img={IMAGES.ChocolatesAmetista.main}
           />
