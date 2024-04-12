@@ -150,6 +150,17 @@ import Aptur from "./Agências de turismo/Aptur.jpg";
 import Citrino from "./Agências de turismo/Citrino.jpg";
 import RotasdosCristais from "./Agências de turismo/Rota dos cristais.jpg";
 
+// Chocolates Ametista
+import ChocolatesAmetistaMain from "./Chocolates Ametista/main.jpg";
+import ChocolatesAmetista1 from "./Chocolates Ametista/chocolates_ametista (1).jpg";
+import ChocolatesAmetista2 from "./Chocolates Ametista/chocolates_ametista (2).jpg";
+import ChocolatesAmetista3 from "./Chocolates Ametista/chocolates_ametista (3).jpg";
+import ChocolatesAmetista4 from "./Chocolates Ametista/chocolates_ametista (4).jpg";
+import ChocolatesAmetista5 from "./Chocolates Ametista/chocolates_ametista (5).jpg";
+import ChocolatesAmetista6 from "./Chocolates Ametista/chocolates_ametista (6).jpg";
+import ChocolatesAmetista7 from "./Chocolates Ametista/chocolates_ametista (7).jpg";
+import ChocolatesAmetista8 from "./Chocolates Ametista/chocolates_ametista (8).jpg";
+
 const IMAGES = {
   AgroIndústriaSãoValentin: {
     Main: AgroIndústriaSãoValentinMain,
@@ -303,6 +314,17 @@ const IMAGES = {
     Citrino: Citrino,
     RotasdosCristais: RotasdosCristais,
   },
+  ChocolatesAmetista: {
+    main:ChocolatesAmetistaMain,
+    1:ChocolatesAmetista1,
+    2:ChocolatesAmetista2,
+    3:ChocolatesAmetista3,
+    4:ChocolatesAmetista4,
+    5:ChocolatesAmetista5,
+    6:ChocolatesAmetista6,
+    7:ChocolatesAmetista7,
+    8:ChocolatesAmetista8,
+  }
 };
 
 export default IMAGES;
